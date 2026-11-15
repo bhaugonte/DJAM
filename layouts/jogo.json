@@ -21,7 +21,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1155420328123731,
+    "zoomFactor": 0.07491973918793511,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -278,7 +278,7 @@
       "name": "Chao",
       "opacity": 0,
       "persistentUuid": "1180b0a7-179d-4e7f-8756-28cf8875bddf",
-      "width": 3200,
+      "width": 2883,
       "x": 23680,
       "y": 0,
       "zOrder": 0,
@@ -290,67 +290,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "opacity": 0,
-      "persistentUuid": "15452cfc-c3af-42b1-86ea-8fb8e27540c8",
-      "width": 480,
-      "x": 24480,
-      "y": -360,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "opacity": 0,
-      "persistentUuid": "fb93b29f-c1d8-47fe-bd1b-6ca346d256b4",
-      "width": 480,
-      "x": 25280,
-      "y": -720,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "9a0c7f62-9ca4-46a4-a705-c00f28babc2a",
-      "width": 1280,
-      "x": 26240,
-      "y": -720,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1080,
+      "height": 969,
       "keepRatio": true,
       "layer": "",
       "name": "Chao",
       "persistentUuid": "9b94c602-3b1c-4c9e-bedd-19618f024e24",
-      "width": 760,
-      "x": 27240,
-      "y": -540,
+      "width": 682,
+      "x": 27850,
+      "y": -491,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -366,94 +313,9 @@
       "opacity": 0,
       "persistentUuid": "43d96844-1dc4-4578-be15-eee04bf183d2",
       "width": 0,
-      "x": 12992,
-      "y": -136,
+      "x": 12990,
+      "y": -157,
       "zOrder": -4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "b2d9ad22-53ca-4414-8af1-e35ca20f374f",
-      "width": 2400,
-      "x": 30200,
-      "y": -720,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1260,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "2bc68169-0599-471b-be56-6bc103dcfad3",
-      "width": 5920,
-      "x": 29720,
-      "y": 0,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 720,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "1dfb8cea-7f59-473d-9e85-de442b23e570",
-      "width": 1120,
-      "x": 31480,
-      "y": -1440,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 9,
-      "height": 720,
-      "keepRatio": true,
-      "layer": "",
-      "name": "RampaEsq",
-      "persistentUuid": "943e5f1d-7a80-45e1-8967-3dac0f375bfe",
-      "width": 2136,
-      "x": 33504,
-      "y": -720,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 900,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "0e93de5b-3355-43c4-bccd-eb3579f925a8",
-      "width": 1240,
-      "x": 28520,
-      "y": -540,
-      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -502,8 +364,8 @@
       "name": "Chao",
       "persistentUuid": "837c15ad-e972-499e-a56a-88f772e013b5",
       "width": 16360,
-      "x": 35640,
-      "y": 0,
+      "x": 35470,
+      "y": -326,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -814,8 +676,8 @@
       "name": "Arvore_Obstaculo01",
       "persistentUuid": "d6c89103-0f9c-4bb7-8172-d822c99531fc",
       "width": 817,
-      "x": -9857,
-      "y": -3146,
+      "x": -9401,
+      "y": -3185,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -848,8 +710,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "95429849-0ece-4ada-8056-9730e8e9a2e2",
       "width": 907,
-      "x": -8915,
-      "y": -3297,
+      "x": -8765,
+      "y": -3253,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -885,40 +747,6 @@
       "x": 17098,
       "y": -1620,
       "zOrder": 42,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1039,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Parallax_03_Frente",
-      "persistentUuid": "0aca87c7-ce55-498b-9ade-6165deb8f092",
-      "width": 27520,
-      "x": 800,
-      "y": -679,
-      "zOrder": -9,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1260,
-      "keepRatio": true,
-      "layer": "",
-      "name": "FundoBG",
-      "persistentUuid": "54e49ec6-5481-4f36-8be2-1ac016010dc7",
-      "width": 31680,
-      "x": -3360,
-      "y": -1080,
-      "zOrder": -10,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1031,118 +859,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spr_ChaoCanto",
-      "persistentUuid": "f2cdddc8-63cb-4efa-8112-80df1898d575",
-      "width": 160,
-      "x": 24800,
-      "y": -360,
-      "zOrder": 44,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "flippedX": true,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spr_ChaoCanto",
-      "persistentUuid": "f3c2604e-86ba-4e00-a34c-2d2f199ff26d",
-      "width": 160,
-      "x": 24480,
-      "y": -360,
-      "zOrder": 44,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "5f989cf4-b44c-49e7-a21e-b43d9cc76b0b",
-      "width": 160,
-      "x": 24640,
-      "y": -360,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "flippedX": true,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spr_ChaoCanto",
-      "persistentUuid": "ab3356db-9484-417d-bd60-7147b9f459cd",
-      "width": 160,
-      "x": 25280,
-      "y": -720,
-      "zOrder": 44,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Chao",
-      "persistentUuid": "a1a6351d-fc0f-4af5-be75-7280da1d95bb",
-      "width": 160,
-      "x": 25440,
-      "y": -720,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 180,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Spr_ChaoCanto",
-      "persistentUuid": "2b841f40-12a8-4be6-b678-f39d8e7debe3",
-      "width": 160,
-      "x": 25600,
-      "y": -720,
-      "zOrder": 44,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 360,
       "keepRatio": true,
       "layer": "",
       "name": "Spr_ChaoCanto",
       "persistentUuid": "21c87091-2cff-4d01-bc6e-7b5a29beee8e",
       "width": 160,
-      "x": 26720,
-      "y": 0,
+      "x": 26419,
+      "y": -3,
       "zOrder": 44,
       "numberProperties": [],
       "stringProperties": [],
@@ -1209,7 +933,7 @@
       "layer": "",
       "name": "Chao",
       "persistentUuid": "34927fb4-0f3a-457c-9bb0-27a049e68869",
-      "width": 800,
+      "width": 509,
       "x": 25920,
       "y": 0,
       "zOrder": 45,
@@ -1279,8 +1003,8 @@
       "name": "Fogo",
       "persistentUuid": "75eb286b-8e43-44fd-a415-4e4ba7838448",
       "width": 1099,
-      "x": 21634,
-      "y": -22,
+      "x": 21642,
+      "y": -48,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1296,8 +1020,8 @@
       "name": "Fogo",
       "persistentUuid": "a4f65da8-fcb7-469e-ae2b-8a730ab8d910",
       "width": 951,
-      "x": 23050,
-      "y": 44,
+      "x": 23016,
+      "y": 17,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1486,8 +1210,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "da4a3a03-53ee-4049-a4e8-d83ed57dcfab",
       "width": 1028,
-      "x": -7128,
-      "y": -3348,
+      "x": -6755,
+      "y": -3332,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1503,8 +1227,8 @@
       "name": "Arvore_Obstaculo01",
       "persistentUuid": "0c237bb0-8a9e-4d88-a5a0-c6621f15a0da",
       "width": 817,
-      "x": -6025,
-      "y": -3176,
+      "x": -5721,
+      "y": -3210,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -1520,8 +1244,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "c9077cf1-32dd-4a57-b0a7-27f3b719ca7b",
       "width": 907,
-      "x": -4927,
-      "y": -3254,
+      "x": -5095,
+      "y": -3241,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1538,7 +1262,7 @@
       "name": "Arvore_Obstaculo3",
       "persistentUuid": "1698c637-c619-4a32-a0e7-d83c820ffc69",
       "width": 881,
-      "x": -3845,
+      "x": -3568,
       "y": -3252,
       "zOrder": 58,
       "numberProperties": [],
@@ -1555,8 +1279,8 @@
       "name": "Arvore_Obstaculo3",
       "persistentUuid": "28c2b5df-d413-4098-aa8f-7456eb2f1594",
       "width": 840,
-      "x": -7971,
-      "y": -3179,
+      "x": -7783,
+      "y": -3195,
       "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
@@ -1573,8 +1297,8 @@
       "name": "Arvore_Obstaculo3",
       "persistentUuid": "fa1446a8-0662-409d-af0e-ba663777eed7",
       "width": 881,
-      "x": -1030,
-      "y": -3256,
+      "x": -837,
+      "y": -3248,
       "zOrder": 58,
       "numberProperties": [],
       "stringProperties": [],
@@ -1591,8 +1315,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "68fc44f5-d1b5-426b-bf65-423dc99ceb4d",
       "width": 907,
-      "x": -2149,
-      "y": -3244,
+      "x": -1810,
+      "y": -3215,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1609,8 +1333,8 @@
       "name": "Arvore_Obstaculo01",
       "persistentUuid": "640b3673-7f58-4957-966e-c7b28a019c59",
       "width": 817,
-      "x": -2971,
-      "y": -3182,
+      "x": -2583,
+      "y": -3166,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -1626,8 +1350,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "48fce0c8-06fc-4d8c-886c-83e2eb3c1a21",
       "width": 907,
-      "x": -117,
-      "y": -3218,
+      "x": -11,
+      "y": -3198,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1643,8 +1367,8 @@
       "name": "Arvore_Obstaculo3",
       "persistentUuid": "4f35f6b2-e960-42f6-96c4-da93fa382371",
       "width": 840,
-      "x": 827,
-      "y": -3100,
+      "x": 942,
+      "y": -3115,
       "zOrder": 59,
       "numberProperties": [],
       "stringProperties": [],
@@ -1661,8 +1385,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "5fe595d2-d46d-42d7-9a90-cc1b8b92c294",
       "width": 1028,
-      "x": 1670,
-      "y": -3269,
+      "x": 1806,
+      "y": -3267,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1678,8 +1402,8 @@
       "name": "Arvore_Obstaculo01",
       "persistentUuid": "9611e3dc-c6bd-40aa-a471-cd84a76410de",
       "width": 817,
-      "x": 2575,
-      "y": -3200,
+      "x": 2627,
+      "y": -3181,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -1909,6 +1633,329 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 975,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fogo",
+      "persistentUuid": "cba93dc3-f0e6-4e94-98d8-28c23075dc39",
+      "width": 1733,
+      "x": -4699,
+      "y": -3074,
+      "zOrder": 60,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 12,
+      "customSize": true,
+      "depth": 1,
+      "height": 925,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Tronco",
+      "persistentUuid": "ac971a90-60eb-4497-9ab8-8255cf3f31f5",
+      "width": 925,
+      "x": 24259,
+      "y": -438,
+      "zOrder": 61,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 345,
+      "customSize": true,
+      "depth": 1,
+      "height": 1028,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Tronco_curvo",
+      "persistentUuid": "3f7ae05a-5e0e-4437-aaf9-511f73766fe1",
+      "width": 1028,
+      "x": 24942,
+      "y": -745,
+      "zOrder": 62,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1260,
+      "layer": "",
+      "name": "FundoBG2",
+      "persistentUuid": "1b8e88d8-14a3-4b45-8445-883eb97e1310",
+      "width": 31680,
+      "x": 10074,
+      "y": -1138,
+      "zOrder": -18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 5,
+      "height": 1039,
+      "layer": "",
+      "name": "Parallax_03_Frente2",
+      "persistentUuid": "6ada1765-956a-4921-853d-e909e18984b6",
+      "width": 27520,
+      "x": 11363,
+      "y": -744,
+      "zOrder": -11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 7,
+      "height": 1112,
+      "layer": "",
+      "name": "Parallax_02_Fundo2",
+      "persistentUuid": "40ae6da6-86fb-4a7e-bf77-afd04a73cd94",
+      "width": 39840,
+      "x": 10861,
+      "y": -956,
+      "zOrder": -17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 25,
+      "height": 900,
+      "layer": "",
+      "name": "Parallax_01_Medio2",
+      "persistentUuid": "f9cd4136-ce3e-4df4-a1cf-ac4c6738d5ae",
+      "width": 31520,
+      "x": 10594,
+      "y": -664,
+      "zOrder": -15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 918,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Tronco_toco",
+      "persistentUuid": "1b88dae7-2016-49ee-ac4c-11c64bd52a95",
+      "width": 918,
+      "x": 25614,
+      "y": -529,
+      "zOrder": 63,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 885,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spr_ChaoCanto",
+      "persistentUuid": "c6789734-d205-4eb2-8a02-58f22e2c40da",
+      "width": 885,
+      "x": 28528,
+      "y": -464,
+      "zOrder": 64,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 932,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spr_ChaoCanto",
+      "persistentUuid": "a191e10b-2321-4001-97bb-88b2f6d31efa",
+      "width": 932,
+      "x": 26928,
+      "y": -478,
+      "zOrder": 65,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 360,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spr_ChaoCanto",
+      "persistentUuid": "13baa8ee-37f4-4cc3-b39b-9db00e4f647e",
+      "width": 160,
+      "x": 29856,
+      "y": -42,
+      "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 360,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Chao",
+      "persistentUuid": "0749a815-16e0-40a2-934c-043ae65ce0c0",
+      "width": 1120,
+      "x": 30016,
+      "y": -42,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 360,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spr_ChaoCanto",
+      "persistentUuid": "adb02297-0c60-4b1c-b35a-c4915c790b6f",
+      "width": 160,
+      "x": 31122,
+      "y": -41,
+      "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 554,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pedra01",
+      "persistentUuid": "81cb2261-6701-427e-b9b8-18e29d17ad45",
+      "width": 554,
+      "x": 31309,
+      "y": -130,
+      "zOrder": 66,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1055,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pedra02",
+      "persistentUuid": "8878b012-3be5-4fa5-b5f0-4c7351cf0360",
+      "width": 1055,
+      "x": 31726,
+      "y": -447,
+      "zOrder": 67,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1107,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pedra03",
+      "persistentUuid": "7e38fecb-a341-4119-b2f1-9cd580f2788e",
+      "width": 1107,
+      "x": 32530,
+      "y": -404,
+      "zOrder": 68,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 433,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spr_ChaoCanto",
+      "persistentUuid": "b1c06a0e-a2f0-491a-994d-93e70768ed05",
+      "width": 180,
+      "x": 33592,
+      "y": -66,
+      "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 433,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Chao",
+      "persistentUuid": "011227e7-912f-4245-9605-6de550c5b43e",
+      "width": 1259,
+      "x": 33772,
+      "y": -66,
+      "zOrder": 45,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 433,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Spr_ChaoCanto",
+      "persistentUuid": "486eba38-8b9d-4856-9537-212d96d3bb14",
+      "width": 180,
+      "x": 35032,
+      "y": -65,
+      "zOrder": 44,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -1976,7 +2023,112 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    [
+                      {
+                        "x": 512,
+                        "y": 589.5
+                      },
+                      {
+                        "x": 427,
+                        "y": 570.5
+                      },
+                      {
+                        "x": 331.5,
+                        "y": 524
+                      },
+                      {
+                        "x": 262,
+                        "y": 461.5
+                      },
+                      {
+                        "x": 314.5,
+                        "y": 246.5
+                      },
+                      {
+                        "x": 367,
+                        "y": 161
+                      },
+                      {
+                        "x": 444,
+                        "y": 172.5
+                      },
+                      {
+                        "x": 576,
+                        "y": 120
+                      },
+                      {
+                        "x": 648,
+                        "y": 180.5
+                      },
+                      {
+                        "x": 789.5,
+                        "y": 276
+                      },
+                      {
+                        "x": 961,
+                        "y": 230
+                      },
+                      {
+                        "x": 1591,
+                        "y": 157.5
+                      },
+                      {
+                        "x": 1660,
+                        "y": 719
+                      },
+                      {
+                        "x": 1499,
+                        "y": 780.5
+                      },
+                      {
+                        "x": 1432,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1291.5,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1161.5,
+                        "y": 828
+                      },
+                      {
+                        "x": 1002.5,
+                        "y": 806
+                      },
+                      {
+                        "x": 812,
+                        "y": 847
+                      },
+                      {
+                        "x": 683.5,
+                        "y": 887.5
+                      },
+                      {
+                        "x": 571,
+                        "y": 863
+                      }
+                    ]
+                  ]
                 },
                 {
                   "hasCustomCollisionMask": true,
@@ -1993,7 +2145,112 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    [
+                      {
+                        "x": 512,
+                        "y": 589.5
+                      },
+                      {
+                        "x": 427,
+                        "y": 570.5
+                      },
+                      {
+                        "x": 331.5,
+                        "y": 524
+                      },
+                      {
+                        "x": 262,
+                        "y": 461.5
+                      },
+                      {
+                        "x": 314.5,
+                        "y": 246.5
+                      },
+                      {
+                        "x": 367,
+                        "y": 161
+                      },
+                      {
+                        "x": 444,
+                        "y": 172.5
+                      },
+                      {
+                        "x": 576,
+                        "y": 120
+                      },
+                      {
+                        "x": 648,
+                        "y": 180.5
+                      },
+                      {
+                        "x": 789.5,
+                        "y": 276
+                      },
+                      {
+                        "x": 961,
+                        "y": 230
+                      },
+                      {
+                        "x": 1591,
+                        "y": 157.5
+                      },
+                      {
+                        "x": 1660,
+                        "y": 719
+                      },
+                      {
+                        "x": 1499,
+                        "y": 780.5
+                      },
+                      {
+                        "x": 1432,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1291.5,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1161.5,
+                        "y": 828
+                      },
+                      {
+                        "x": 1002.5,
+                        "y": 806
+                      },
+                      {
+                        "x": 812,
+                        "y": 847
+                      },
+                      {
+                        "x": 683.5,
+                        "y": 887.5
+                      },
+                      {
+                        "x": 571,
+                        "y": 863
+                      }
+                    ]
+                  ]
                 },
                 {
                   "hasCustomCollisionMask": true,
@@ -2010,7 +2267,112 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    [
+                      {
+                        "x": 512,
+                        "y": 589.5
+                      },
+                      {
+                        "x": 427,
+                        "y": 570.5
+                      },
+                      {
+                        "x": 331.5,
+                        "y": 524
+                      },
+                      {
+                        "x": 262,
+                        "y": 461.5
+                      },
+                      {
+                        "x": 314.5,
+                        "y": 246.5
+                      },
+                      {
+                        "x": 367,
+                        "y": 161
+                      },
+                      {
+                        "x": 444,
+                        "y": 172.5
+                      },
+                      {
+                        "x": 576,
+                        "y": 120
+                      },
+                      {
+                        "x": 648,
+                        "y": 180.5
+                      },
+                      {
+                        "x": 789.5,
+                        "y": 276
+                      },
+                      {
+                        "x": 961,
+                        "y": 230
+                      },
+                      {
+                        "x": 1591,
+                        "y": 157.5
+                      },
+                      {
+                        "x": 1660,
+                        "y": 719
+                      },
+                      {
+                        "x": 1499,
+                        "y": 780.5
+                      },
+                      {
+                        "x": 1432,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1291.5,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1161.5,
+                        "y": 828
+                      },
+                      {
+                        "x": 1002.5,
+                        "y": 806
+                      },
+                      {
+                        "x": 812,
+                        "y": 847
+                      },
+                      {
+                        "x": 683.5,
+                        "y": 887.5
+                      },
+                      {
+                        "x": 571,
+                        "y": 863
+                      }
+                    ]
+                  ]
                 },
                 {
                   "hasCustomCollisionMask": true,
@@ -2027,7 +2389,112 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    [
+                      {
+                        "x": 512,
+                        "y": 589.5
+                      },
+                      {
+                        "x": 427,
+                        "y": 570.5
+                      },
+                      {
+                        "x": 331.5,
+                        "y": 524
+                      },
+                      {
+                        "x": 262,
+                        "y": 461.5
+                      },
+                      {
+                        "x": 314.5,
+                        "y": 246.5
+                      },
+                      {
+                        "x": 367,
+                        "y": 161
+                      },
+                      {
+                        "x": 444,
+                        "y": 172.5
+                      },
+                      {
+                        "x": 576,
+                        "y": 120
+                      },
+                      {
+                        "x": 648,
+                        "y": 180.5
+                      },
+                      {
+                        "x": 789.5,
+                        "y": 276
+                      },
+                      {
+                        "x": 961,
+                        "y": 230
+                      },
+                      {
+                        "x": 1591,
+                        "y": 157.5
+                      },
+                      {
+                        "x": 1660,
+                        "y": 719
+                      },
+                      {
+                        "x": 1499,
+                        "y": 780.5
+                      },
+                      {
+                        "x": 1432,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1291.5,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1161.5,
+                        "y": 828
+                      },
+                      {
+                        "x": 1002.5,
+                        "y": 806
+                      },
+                      {
+                        "x": 812,
+                        "y": 847
+                      },
+                      {
+                        "x": 683.5,
+                        "y": 887.5
+                      },
+                      {
+                        "x": 571,
+                        "y": 863
+                      }
+                    ]
+                  ]
                 },
                 {
                   "hasCustomCollisionMask": true,
@@ -2044,7 +2511,112 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": []
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    [
+                      {
+                        "x": 512,
+                        "y": 589.5
+                      },
+                      {
+                        "x": 427,
+                        "y": 570.5
+                      },
+                      {
+                        "x": 331.5,
+                        "y": 524
+                      },
+                      {
+                        "x": 262,
+                        "y": 461.5
+                      },
+                      {
+                        "x": 314.5,
+                        "y": 246.5
+                      },
+                      {
+                        "x": 367,
+                        "y": 161
+                      },
+                      {
+                        "x": 444,
+                        "y": 172.5
+                      },
+                      {
+                        "x": 576,
+                        "y": 120
+                      },
+                      {
+                        "x": 648,
+                        "y": 180.5
+                      },
+                      {
+                        "x": 789.5,
+                        "y": 276
+                      },
+                      {
+                        "x": 961,
+                        "y": 230
+                      },
+                      {
+                        "x": 1591,
+                        "y": 157.5
+                      },
+                      {
+                        "x": 1660,
+                        "y": 719
+                      },
+                      {
+                        "x": 1499,
+                        "y": 780.5
+                      },
+                      {
+                        "x": 1432,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1291.5,
+                        "y": 816.5
+                      },
+                      {
+                        "x": 1161.5,
+                        "y": 828
+                      },
+                      {
+                        "x": 1002.5,
+                        "y": 806
+                      },
+                      {
+                        "x": 812,
+                        "y": 847
+                      },
+                      {
+                        "x": 683.5,
+                        "y": 887.5
+                      },
+                      {
+                        "x": 571,
+                        "y": 863
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -2937,72 +3509,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3031,72 +3647,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3125,72 +3785,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3219,72 +3923,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3313,72 +4061,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3407,72 +4199,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3501,72 +4337,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3595,72 +4475,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3689,72 +4613,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -3773,7 +4741,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "harpia02_transparente.png",
+                  "image": "IMG_1101.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -3795,72 +4763,116 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 682.5,
-                        "y": 1092.5
+                        "x": 726,
+                        "y": 1163.5
                       },
                       {
-                        "x": 384,
-                        "y": 840.5
+                        "x": 507.5,
+                        "y": 900.5
                       },
                       {
-                        "x": 106.5,
-                        "y": 161.5
+                        "x": 373.5,
+                        "y": 359
                       },
                       {
-                        "x": 540.5,
-                        "y": 329.5
+                        "x": 480.5,
+                        "y": 164
                       },
                       {
-                        "x": 923,
-                        "y": 740
+                        "x": 969.5,
+                        "y": 608
                       },
                       {
-                        "x": 1144.5,
-                        "y": 278.5
+                        "x": 1316,
+                        "y": 967.5
                       },
                       {
-                        "x": 1390,
-                        "y": 133
+                        "x": 1295,
+                        "y": 883
                       },
                       {
-                        "x": 1415,
-                        "y": 577
+                        "x": 1410.5,
+                        "y": 738
                       },
                       {
-                        "x": 1277.5,
-                        "y": 814.5
+                        "x": 1541.5,
+                        "y": 533.5
                       },
                       {
-                        "x": 1328.5,
-                        "y": 936
+                        "x": 1784.5,
+                        "y": 292.5
                       },
                       {
-                        "x": 1028,
-                        "y": 1213.5
+                        "x": 1871.5,
+                        "y": 502.5
                       },
                       {
-                        "x": 1067.5,
-                        "y": 1337
+                        "x": 1756,
+                        "y": 741
                       },
                       {
-                        "x": 974,
-                        "y": 1547
+                        "x": 1601.5,
+                        "y": 962.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1591.5
+                        "x": 1741,
+                        "y": 1075.5
                       },
                       {
-                        "x": 694.5,
-                        "y": 1510
+                        "x": 1457,
+                        "y": 1252.5
                       },
                       {
-                        "x": 766.5,
-                        "y": 1281
+                        "x": 1307,
+                        "y": 1495.5
                       },
                       {
-                        "x": 347,
-                        "y": 1255.5
+                        "x": 1397,
+                        "y": 1564.5
+                      },
+                      {
+                        "x": 1350,
+                        "y": 1703.5
+                      },
+                      {
+                        "x": 1357,
+                        "y": 1857
+                      },
+                      {
+                        "x": 1241.5,
+                        "y": 1930
+                      },
+                      {
+                        "x": 1045,
+                        "y": 1934.5
+                      },
+                      {
+                        "x": 1027.5,
+                        "y": 1796
+                      },
+                      {
+                        "x": 1131,
+                        "y": 1642.5
+                      },
+                      {
+                        "x": 1089,
+                        "y": 1481
+                      },
+                      {
+                        "x": 904,
+                        "y": 1519
+                      },
+                      {
+                        "x": 688.5,
+                        "y": 1548.5
+                      },
+                      {
+                        "x": 465,
+                        "y": 1485
+                      },
+                      {
+                        "x": 1008,
+                        "y": 1299
                       }
                     ]
                   ]
@@ -4682,140 +5694,112 @@
                         "y": 1325
                       },
                       {
-                        "x": 947.5,
-                        "y": 1232
-                      },
-                      {
-                        "x": 939,
-                        "y": 1092.5
+                        "x": 943,
+                        "y": 1290
                       },
                       {
                         "x": 827,
                         "y": 977.5
                       },
                       {
-                        "x": 581,
-                        "y": 980.5
+                        "x": 644.5,
+                        "y": 1022.5
                       },
                       {
-                        "x": 375.5,
-                        "y": 1048.5
+                        "x": 219,
+                        "y": 1044
                       },
                       {
-                        "x": 258,
-                        "y": 1002
+                        "x": 183.5,
+                        "y": 923
                       },
                       {
-                        "x": 271.5,
-                        "y": 849
+                        "x": 300.5,
+                        "y": 864
                       },
                       {
-                        "x": 457.5,
-                        "y": 772.5
+                        "x": 410.5,
+                        "y": 622.5
                       },
                       {
-                        "x": 457.5,
-                        "y": 638.5
+                        "x": 233,
+                        "y": 400
                       },
                       {
-                        "x": 329,
-                        "y": 542.5
+                        "x": 305,
+                        "y": 309
                       },
                       {
-                        "x": 356.5,
-                        "y": 395
+                        "x": 790.5,
+                        "y": 333.5
                       },
                       {
-                        "x": 518,
-                        "y": 351
+                        "x": 971.5,
+                        "y": 257.5
                       },
                       {
-                        "x": 674,
-                        "y": 288
+                        "x": 1081.5,
+                        "y": 204.5
                       },
                       {
-                        "x": 663,
-                        "y": 135
+                        "x": 1223.5,
+                        "y": 253
                       },
                       {
-                        "x": 750.5,
-                        "y": 50
+                        "x": 1459,
+                        "y": 233
                       },
                       {
-                        "x": 985.5,
-                        "y": 96.5
+                        "x": 1663,
+                        "y": 286
                       },
                       {
-                        "x": 1226.5,
-                        "y": 110.5
+                        "x": 1743,
+                        "y": 358.5
                       },
                       {
-                        "x": 1215.5,
-                        "y": 263.5
+                        "x": 1654.5,
+                        "y": 459.5
                       },
                       {
-                        "x": 1437,
-                        "y": 203.5
+                        "x": 1841,
+                        "y": 576
                       },
                       {
-                        "x": 1593,
-                        "y": 282.5
-                      },
-                      {
-                        "x": 1639.5,
-                        "y": 414
-                      },
-                      {
-                        "x": 1426,
-                        "y": 463
-                      },
-                      {
-                        "x": 1740.5,
-                        "y": 548
-                      },
-                      {
-                        "x": 1801,
-                        "y": 641
-                      },
-                      {
-                        "x": 1732.5,
-                        "y": 769.5
+                        "x": 1833,
+                        "y": 696
                       },
                       {
                         "x": 1557.5,
                         "y": 761.5
                       },
                       {
-                        "x": 1798,
-                        "y": 821.5
+                        "x": 1873.5,
+                        "y": 946.5
                       },
                       {
-                        "x": 1853,
-                        "y": 906.5
+                        "x": 1856.5,
+                        "y": 1045.5
                       },
                       {
-                        "x": 1798,
-                        "y": 1054
+                        "x": 1637,
+                        "y": 1113.5
                       },
                       {
-                        "x": 1672.5,
-                        "y": 1054
+                        "x": 1346.5,
+                        "y": 1102.5
                       },
                       {
-                        "x": 1297.5,
-                        "y": 1087
-                      },
-                      {
-                        "x": 1212.5,
-                        "y": 1221
+                        "x": 1261,
+                        "y": 1220
                       },
                       {
                         "x": 1232,
                         "y": 1968
                       },
                       {
-                        "x": 955.5,
-                        "y": 1976
+                        "x": 1109,
+                        "y": 2002.5
                       }
                     ]
                   ]
@@ -4863,140 +5847,104 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 821.5,
-                        "y": 1691.5
+                        "x": 913.5,
+                        "y": 1671
                       },
                       {
-                        "x": 808,
-                        "y": 1516.5
+                        "x": 911.5,
+                        "y": 1179.5
                       },
                       {
-                        "x": 578,
-                        "y": 1423.5
+                        "x": 840,
+                        "y": 1059
                       },
                       {
-                        "x": 318,
-                        "y": 1470
+                        "x": 695.5,
+                        "y": 1022.5
                       },
                       {
-                        "x": 225,
-                        "y": 1385
+                        "x": 628.5,
+                        "y": 971.5
                       },
                       {
-                        "x": 271.5,
-                        "y": 1317
+                        "x": 425,
+                        "y": 920
                       },
                       {
-                        "x": 55.5,
-                        "y": 1202
+                        "x": 474.5,
+                        "y": 809.5
                       },
                       {
-                        "x": 33.5,
-                        "y": 996.5
+                        "x": 305,
+                        "y": 705
                       },
                       {
-                        "x": 143,
-                        "y": 923
+                        "x": 384,
+                        "y": 411
                       },
                       {
-                        "x": 77.5,
-                        "y": 860
+                        "x": 844.5,
+                        "y": 462
                       },
                       {
-                        "x": 58,
-                        "y": 704
+                        "x": 1113.5,
+                        "y": 479.5
                       },
                       {
-                        "x": 236,
-                        "y": 646.5
+                        "x": 1326.5,
+                        "y": 357
                       },
                       {
-                        "x": 386.5,
-                        "y": 485
+                        "x": 1539.5,
+                        "y": 403.5
                       },
                       {
-                        "x": 638,
-                        "y": 457.5
+                        "x": 1541.5,
+                        "y": 559
                       },
                       {
-                        "x": 745,
-                        "y": 370
+                        "x": 1841.5,
+                        "y": 684.5
                       },
                       {
-                        "x": 931,
-                        "y": 381
+                        "x": 1840.5,
+                        "y": 823.5
                       },
                       {
-                        "x": 1114,
-                        "y": 321
+                        "x": 1836,
+                        "y": 932.5
                       },
                       {
-                        "x": 1297.5,
-                        "y": 370
+                        "x": 1906.5,
+                        "y": 1031.5
                       },
                       {
-                        "x": 1305.5,
-                        "y": 438.5
+                        "x": 1829,
+                        "y": 1095.5
                       },
                       {
-                        "x": 1563,
-                        "y": 436
+                        "x": 1748.5,
+                        "y": 1128.5
                       },
                       {
-                        "x": 1757,
-                        "y": 550.5
+                        "x": 1655,
+                        "y": 1127.5
                       },
                       {
-                        "x": 1795.5,
-                        "y": 646.5
+                        "x": 1376.5,
+                        "y": 1129
                       },
                       {
-                        "x": 1965,
-                        "y": 750.5
+                        "x": 1313.5,
+                        "y": 1175.5
                       },
                       {
-                        "x": 2020,
-                        "y": 898
+                        "x": 1175.5,
+                        "y": 1220.5
                       },
                       {
-                        "x": 1978.5,
-                        "y": 1027
-                      },
-                      {
-                        "x": 2030.5,
-                        "y": 1106
-                      },
-                      {
-                        "x": 1927,
-                        "y": 1284
-                      },
-                      {
-                        "x": 1683.5,
-                        "y": 1358
-                      },
-                      {
-                        "x": 1647.5,
-                        "y": 1486.5
-                      },
-                      {
-                        "x": 1371.5,
-                        "y": 1456.5
-                      },
-                      {
-                        "x": 1182.5,
-                        "y": 1494.5
-                      },
-                      {
-                        "x": 1048.5,
-                        "y": 1609.5
-                      },
-                      {
-                        "x": 1070.5,
-                        "y": 1853
-                      },
-                      {
-                        "x": 775,
-                        "y": 1855.5
+                        "x": 1147.5,
+                        "y": 1681.5
                       }
                     ]
                   ]
@@ -5091,7 +6039,7 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Arvore_Obstaculo3",
       "persistentUuid": "921892bf-cebf-44ac-b959-f3d97954bef2",
@@ -5127,20 +6075,104 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 14,
-                        "y": 283
+                        "x": 765.5,
+                        "y": 1476.5
                       },
                       {
-                        "x": 2006,
-                        "y": 283
+                        "x": 613,
+                        "y": 1395.5
                       },
                       {
-                        "x": 2006,
-                        "y": 1854
+                        "x": 411.5,
+                        "y": 1393.5
                       },
                       {
-                        "x": 14,
-                        "y": 1854
+                        "x": 216.5,
+                        "y": 1355.5
+                      },
+                      {
+                        "x": 113.5,
+                        "y": 1131.5
+                      },
+                      {
+                        "x": 205.5,
+                        "y": 973
+                      },
+                      {
+                        "x": 81,
+                        "y": 798
+                      },
+                      {
+                        "x": 255.5,
+                        "y": 650.5
+                      },
+                      {
+                        "x": 424,
+                        "y": 539
+                      },
+                      {
+                        "x": 619,
+                        "y": 483.5
+                      },
+                      {
+                        "x": 793,
+                        "y": 411.5
+                      },
+                      {
+                        "x": 1037.5,
+                        "y": 358.5
+                      },
+                      {
+                        "x": 1216,
+                        "y": 372.5
+                      },
+                      {
+                        "x": 1394.5,
+                        "y": 466.5
+                      },
+                      {
+                        "x": 1606.5,
+                        "y": 496
+                      },
+                      {
+                        "x": 1737.5,
+                        "y": 712.5
+                      },
+                      {
+                        "x": 1934.5,
+                        "y": 817.5
+                      },
+                      {
+                        "x": 1901,
+                        "y": 1014
+                      },
+                      {
+                        "x": 1898.5,
+                        "y": 1160
+                      },
+                      {
+                        "x": 1632.5,
+                        "y": 1413.5
+                      },
+                      {
+                        "x": 1337.5,
+                        "y": 1402
+                      },
+                      {
+                        "x": 1035,
+                        "y": 1532
+                      },
+                      {
+                        "x": 1028.5,
+                        "y": 1821
+                      },
+                      {
+                        "x": 813,
+                        "y": 1840.5
+                      },
+                      {
+                        "x": 859,
+                        "y": 1549
                       }
                     ]
                   ]
@@ -5221,7 +6253,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": false,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -5310,14 +6350,29 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
+      "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
       "name": "Fogo",
       "persistentUuid": "3c8c84f4-af83-4ad4-b069-dd665175c622",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "HslAdjustment",
+          "name": "Orange Tint",
+          "doubleParameters": {
+            "alpha": 1,
+            "hue": 30,
+            "lightness": 0.1,
+            "saturation": 0.4
+          },
+          "stringParameters": {},
+          "booleanParameters": {
+            "colorize": true
+          }
+        }
+      ],
       "behaviors": [],
       "animations": [
         {
@@ -5330,7 +6385,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fogo1.PNG",
+                  "image": "IMG_1141.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5346,27 +6401,87 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 111,
-                        "y": 213
+                        "x": 87.5,
+                        "y": 713.5
                       },
                       {
-                        "x": 1809,
-                        "y": 213
+                        "x": 189,
+                        "y": 550
                       },
                       {
-                        "x": 1809,
-                        "y": 779
+                        "x": 391.5,
+                        "y": 397.5
                       },
                       {
-                        "x": 111,
-                        "y": 779
+                        "x": 483,
+                        "y": 317.5
+                      },
+                      {
+                        "x": 561.5,
+                        "y": 366
+                      },
+                      {
+                        "x": 727,
+                        "y": 332
+                      },
+                      {
+                        "x": 808,
+                        "y": 260
+                      },
+                      {
+                        "x": 880,
+                        "y": 357
+                      },
+                      {
+                        "x": 1177.5,
+                        "y": 241
+                      },
+                      {
+                        "x": 1286.5,
+                        "y": 385.5
+                      },
+                      {
+                        "x": 1494.5,
+                        "y": 388
+                      },
+                      {
+                        "x": 1740,
+                        "y": 449.5
+                      },
+                      {
+                        "x": 1825,
+                        "y": 676.5
+                      },
+                      {
+                        "x": 1679.5,
+                        "y": 721
+                      },
+                      {
+                        "x": 1290,
+                        "y": 708
+                      },
+                      {
+                        "x": 1031,
+                        "y": 787
+                      },
+                      {
+                        "x": 764.5,
+                        "y": 716
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 762
+                      },
+                      {
+                        "x": 297,
+                        "y": 717.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fogo2.PNG",
+                  "image": "IMG_1140.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5382,27 +6497,87 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 111,
-                        "y": 213
+                        "x": 87.5,
+                        "y": 713.5
                       },
                       {
-                        "x": 1809,
-                        "y": 213
+                        "x": 189,
+                        "y": 550
                       },
                       {
-                        "x": 1809,
-                        "y": 779
+                        "x": 391.5,
+                        "y": 397.5
                       },
                       {
-                        "x": 111,
-                        "y": 779
+                        "x": 483,
+                        "y": 317.5
+                      },
+                      {
+                        "x": 561.5,
+                        "y": 366
+                      },
+                      {
+                        "x": 727,
+                        "y": 332
+                      },
+                      {
+                        "x": 808,
+                        "y": 260
+                      },
+                      {
+                        "x": 880,
+                        "y": 357
+                      },
+                      {
+                        "x": 1177.5,
+                        "y": 241
+                      },
+                      {
+                        "x": 1286.5,
+                        "y": 385.5
+                      },
+                      {
+                        "x": 1494.5,
+                        "y": 388
+                      },
+                      {
+                        "x": 1740,
+                        "y": 449.5
+                      },
+                      {
+                        "x": 1825,
+                        "y": 676.5
+                      },
+                      {
+                        "x": 1679.5,
+                        "y": 721
+                      },
+                      {
+                        "x": 1290,
+                        "y": 708
+                      },
+                      {
+                        "x": 1031,
+                        "y": 787
+                      },
+                      {
+                        "x": 764.5,
+                        "y": 716
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 762
+                      },
+                      {
+                        "x": 297,
+                        "y": 717.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fogo3.PNG",
+                  "image": "IMG_1140.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5418,27 +6593,87 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 111,
-                        "y": 213
+                        "x": 87.5,
+                        "y": 713.5
                       },
                       {
-                        "x": 1809,
-                        "y": 213
+                        "x": 189,
+                        "y": 550
                       },
                       {
-                        "x": 1809,
-                        "y": 779
+                        "x": 391.5,
+                        "y": 397.5
                       },
                       {
-                        "x": 111,
-                        "y": 779
+                        "x": 483,
+                        "y": 317.5
+                      },
+                      {
+                        "x": 561.5,
+                        "y": 366
+                      },
+                      {
+                        "x": 727,
+                        "y": 332
+                      },
+                      {
+                        "x": 808,
+                        "y": 260
+                      },
+                      {
+                        "x": 880,
+                        "y": 357
+                      },
+                      {
+                        "x": 1177.5,
+                        "y": 241
+                      },
+                      {
+                        "x": 1286.5,
+                        "y": 385.5
+                      },
+                      {
+                        "x": 1494.5,
+                        "y": 388
+                      },
+                      {
+                        "x": 1740,
+                        "y": 449.5
+                      },
+                      {
+                        "x": 1825,
+                        "y": 676.5
+                      },
+                      {
+                        "x": 1679.5,
+                        "y": 721
+                      },
+                      {
+                        "x": 1290,
+                        "y": 708
+                      },
+                      {
+                        "x": 1031,
+                        "y": 787
+                      },
+                      {
+                        "x": 764.5,
+                        "y": 716
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 762
+                      },
+                      {
+                        "x": 297,
+                        "y": 717.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fogo4.PNG",
+                  "image": "IMG_1140.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5454,27 +6689,87 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 111,
-                        "y": 213
+                        "x": 87.5,
+                        "y": 713.5
                       },
                       {
-                        "x": 1809,
-                        "y": 213
+                        "x": 189,
+                        "y": 550
                       },
                       {
-                        "x": 1809,
-                        "y": 779
+                        "x": 391.5,
+                        "y": 397.5
                       },
                       {
-                        "x": 111,
-                        "y": 779
+                        "x": 483,
+                        "y": 317.5
+                      },
+                      {
+                        "x": 561.5,
+                        "y": 366
+                      },
+                      {
+                        "x": 727,
+                        "y": 332
+                      },
+                      {
+                        "x": 808,
+                        "y": 260
+                      },
+                      {
+                        "x": 880,
+                        "y": 357
+                      },
+                      {
+                        "x": 1177.5,
+                        "y": 241
+                      },
+                      {
+                        "x": 1286.5,
+                        "y": 385.5
+                      },
+                      {
+                        "x": 1494.5,
+                        "y": 388
+                      },
+                      {
+                        "x": 1740,
+                        "y": 449.5
+                      },
+                      {
+                        "x": 1825,
+                        "y": 676.5
+                      },
+                      {
+                        "x": 1679.5,
+                        "y": 721
+                      },
+                      {
+                        "x": 1290,
+                        "y": 708
+                      },
+                      {
+                        "x": 1031,
+                        "y": 787
+                      },
+                      {
+                        "x": 764.5,
+                        "y": 716
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 762
+                      },
+                      {
+                        "x": 297,
+                        "y": 717.5
                       }
                     ]
                   ]
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fogo5.PNG",
+                  "image": "IMG_1140.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5490,20 +6785,80 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 111,
-                        "y": 213
+                        "x": 87.5,
+                        "y": 713.5
                       },
                       {
-                        "x": 1809,
-                        "y": 213
+                        "x": 189,
+                        "y": 550
                       },
                       {
-                        "x": 1809,
-                        "y": 779
+                        "x": 391.5,
+                        "y": 397.5
                       },
                       {
-                        "x": 111,
-                        "y": 779
+                        "x": 483,
+                        "y": 317.5
+                      },
+                      {
+                        "x": 561.5,
+                        "y": 366
+                      },
+                      {
+                        "x": 727,
+                        "y": 332
+                      },
+                      {
+                        "x": 808,
+                        "y": 260
+                      },
+                      {
+                        "x": 880,
+                        "y": 357
+                      },
+                      {
+                        "x": 1177.5,
+                        "y": 241
+                      },
+                      {
+                        "x": 1286.5,
+                        "y": 385.5
+                      },
+                      {
+                        "x": 1494.5,
+                        "y": 388
+                      },
+                      {
+                        "x": 1740,
+                        "y": 449.5
+                      },
+                      {
+                        "x": 1825,
+                        "y": 676.5
+                      },
+                      {
+                        "x": 1679.5,
+                        "y": 721
+                      },
+                      {
+                        "x": 1290,
+                        "y": 708
+                      },
+                      {
+                        "x": 1031,
+                        "y": 787
+                      },
+                      {
+                        "x": 764.5,
+                        "y": 716
+                      },
+                      {
+                        "x": 441.5,
+                        "y": 762
+                      },
+                      {
+                        "x": 297,
+                        "y": 717.5
                       }
                     ]
                   ]
@@ -5940,6 +7295,796 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Tronco",
+      "persistentUuid": "70f24bf5-e589-4112-817a-fb7daf38c32b",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": false,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tronco_reto.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 236,
+                        "y": 1406
+                      },
+                      {
+                        "x": 252,
+                        "y": 1335.5
+                      },
+                      {
+                        "x": 149.5,
+                        "y": 1273.5
+                      },
+                      {
+                        "x": 201.5,
+                        "y": 1162.5
+                      },
+                      {
+                        "x": 143,
+                        "y": 1073
+                      },
+                      {
+                        "x": 192.5,
+                        "y": 968
+                      },
+                      {
+                        "x": 665.5,
+                        "y": 847
+                      },
+                      {
+                        "x": 851.5,
+                        "y": 626.5
+                      },
+                      {
+                        "x": 927,
+                        "y": 625.5
+                      },
+                      {
+                        "x": 929,
+                        "y": 772.5
+                      },
+                      {
+                        "x": 1519.5,
+                        "y": 567.5
+                      },
+                      {
+                        "x": 1890,
+                        "y": 516.5
+                      },
+                      {
+                        "x": 1818.5,
+                        "y": 604
+                      },
+                      {
+                        "x": 1934,
+                        "y": 676
+                      },
+                      {
+                        "x": 1893,
+                        "y": 778.5
+                      },
+                      {
+                        "x": 1963.5,
+                        "y": 848
+                      },
+                      {
+                        "x": 1904,
+                        "y": 947.5
+                      },
+                      {
+                        "x": 1885,
+                        "y": 1025.5
+                      },
+                      {
+                        "x": 1651,
+                        "y": 975
+                      },
+                      {
+                        "x": 1291.5,
+                        "y": 1069.5
+                      },
+                      {
+                        "x": 289,
+                        "y": 1472
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Tronco_curvo",
+      "persistentUuid": "f4abe913-37c7-49ba-9b99-31df32421945",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tronco_curvo.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 838.5,
+                        "y": 1251.5
+                      },
+                      {
+                        "x": 329.5,
+                        "y": 1360
+                      },
+                      {
+                        "x": 236.5,
+                        "y": 1251
+                      },
+                      {
+                        "x": 152.5,
+                        "y": 1132.5
+                      },
+                      {
+                        "x": 142.5,
+                        "y": 991.5
+                      },
+                      {
+                        "x": 383.5,
+                        "y": 840
+                      },
+                      {
+                        "x": 640.5,
+                        "y": 737
+                      },
+                      {
+                        "x": 840.5,
+                        "y": 638.5
+                      },
+                      {
+                        "x": 1319,
+                        "y": 732
+                      },
+                      {
+                        "x": 1705,
+                        "y": 891
+                      },
+                      {
+                        "x": 1990,
+                        "y": 1273.5
+                      },
+                      {
+                        "x": 1896.5,
+                        "y": 1313
+                      },
+                      {
+                        "x": 1885.5,
+                        "y": 1389
+                      },
+                      {
+                        "x": 1795,
+                        "y": 1410.5
+                      },
+                      {
+                        "x": 1755.5,
+                        "y": 1572.5
+                      },
+                      {
+                        "x": 1625,
+                        "y": 1563
+                      },
+                      {
+                        "x": 1481.5,
+                        "y": 1627
+                      },
+                      {
+                        "x": 1414,
+                        "y": 1524.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "FundoBG2",
+      "persistentUuid": "2508c326-e7c3-433c-9b0e-95de3f48f6b7",
+      "texture": "f1-c1@3x3.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "KawaseBlur",
+          "name": "KawaseBlur",
+          "doubleParameters": {
+            "blur": 5,
+            "padding": 0,
+            "pixelizeX": 1,
+            "pixelizeY": 1,
+            "quality": 3
+          },
+          "stringParameters": {},
+          "booleanParameters": {}
+        }
+      ],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "height": 200,
+      "name": "Parallax_03_Frente2",
+      "persistentUuid": "614b7731-f879-4831-b0bc-944c419c73bd",
+      "texture": "c2-4@3x.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 200,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "KawaseBlur",
+          "name": "KawaseBlur",
+          "doubleParameters": {
+            "blur": 1,
+            "padding": 0,
+            "pixelizeX": 1,
+            "pixelizeY": 1,
+            "quality": 3
+          },
+          "stringParameters": {},
+          "booleanParameters": {}
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax",
+          "ParallaxFactor": 0.5,
+          "FollowedLayer": ""
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 200,
+      "name": "Parallax_02_Fundo2",
+      "persistentUuid": "e21a6e0b-deff-4660-8c93-54a1c5645e6f",
+      "texture": "c2-2@3x.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 200,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "KawaseBlur",
+          "name": "KawaseBlur",
+          "doubleParameters": {
+            "blur": 3,
+            "padding": 0,
+            "pixelizeX": 1,
+            "pixelizeY": 1,
+            "quality": 3
+          },
+          "stringParameters": {},
+          "booleanParameters": {}
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax",
+          "ParallaxFactor": 0.1,
+          "FollowedLayer": ""
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "Parallax_01_Medio2",
+      "persistentUuid": "822c990c-3833-4f87-947f-2fad4e7676e5",
+      "texture": "c2-3@3x.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [
+        {
+          "effectType": "Blur",
+          "name": "Blur",
+          "doubleParameters": {
+            "blur": 2,
+            "kernelSize": 5,
+            "quality": 1,
+            "resolution": 2
+          },
+          "stringParameters": {},
+          "booleanParameters": {}
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax",
+          "ParallaxFactor": 0.3,
+          "FollowedLayer": ""
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Tronco_toco",
+      "persistentUuid": "d7f2bdc1-bf38-4cc9-ab91-8fdcdfab8a51",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": false,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tronco_toco.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 285,
+                        "y": 1338
+                      },
+                      {
+                        "x": 635,
+                        "y": 1060.5
+                      },
+                      {
+                        "x": 656.5,
+                        "y": 435
+                      },
+                      {
+                        "x": 775,
+                        "y": 416
+                      },
+                      {
+                        "x": 1473,
+                        "y": 363
+                      },
+                      {
+                        "x": 1489.5,
+                        "y": 508
+                      },
+                      {
+                        "x": 1507.5,
+                        "y": 809.5
+                      },
+                      {
+                        "x": 1662,
+                        "y": 1335
+                      },
+                      {
+                        "x": 1819,
+                        "y": 1674
+                      },
+                      {
+                        "x": 1728.5,
+                        "y": 1710
+                      },
+                      {
+                        "x": 1480.5,
+                        "y": 1612
+                      },
+                      {
+                        "x": 1253,
+                        "y": 1797
+                      },
+                      {
+                        "x": 1043,
+                        "y": 1692.5
+                      },
+                      {
+                        "x": 759.5,
+                        "y": 1704.5
+                      },
+                      {
+                        "x": 505,
+                        "y": 1541
+                      },
+                      {
+                        "x": 236.5,
+                        "y": 1416.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pedra01",
+      "persistentUuid": "f7b77203-3862-4ed1-997c-e9e2000ddbcf",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": false,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "riacho_02.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 319,
+                        "y": 934.5
+                      },
+                      {
+                        "x": 577.5,
+                        "y": 607.5
+                      },
+                      {
+                        "x": 941,
+                        "y": 453
+                      },
+                      {
+                        "x": 1377.5,
+                        "y": 521.5
+                      },
+                      {
+                        "x": 1685.5,
+                        "y": 663.5
+                      },
+                      {
+                        "x": 1753,
+                        "y": 801.5
+                      },
+                      {
+                        "x": 1539,
+                        "y": 987
+                      },
+                      {
+                        "x": 1747,
+                        "y": 1311.5
+                      },
+                      {
+                        "x": 1507.5,
+                        "y": 1439
+                      },
+                      {
+                        "x": 1091,
+                        "y": 1574
+                      },
+                      {
+                        "x": 287.5,
+                        "y": 1786.5
+                      },
+                      {
+                        "x": 215,
+                        "y": 1419.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pedra02",
+      "persistentUuid": "eb2bada2-73e6-47a0-806f-c5f68d68b8d3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": false,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "riacho_03.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 473.5,
+                        "y": 1471
+                      },
+                      {
+                        "x": 593.5,
+                        "y": 1274
+                      },
+                      {
+                        "x": 789.5,
+                        "y": 1271
+                      },
+                      {
+                        "x": 989.5,
+                        "y": 1349
+                      },
+                      {
+                        "x": 1165.5,
+                        "y": 1455.5
+                      },
+                      {
+                        "x": 1045.5,
+                        "y": 1567
+                      },
+                      {
+                        "x": 539.5,
+                        "y": 1581.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pedra03",
+      "persistentUuid": "e9abad97-53ec-4c21-8427-218cca8c3651",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "riacho_04.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1078.5,
+                        "y": 1601.5
+                      },
+                      {
+                        "x": 759.5,
+                        "y": 1468
+                      },
+                      {
+                        "x": 606.5,
+                        "y": 1438.5
+                      },
+                      {
+                        "x": 669.5,
+                        "y": 1325
+                      },
+                      {
+                        "x": 798.5,
+                        "y": 1316
+                      },
+                      {
+                        "x": 965,
+                        "y": 1366.5
+                      },
+                      {
+                        "x": 1154.5,
+                        "y": 1279
+                      },
+                      {
+                        "x": 1496,
+                        "y": 1132
+                      },
+                      {
+                        "x": 1694,
+                        "y": 1202
+                      },
+                      {
+                        "x": 1948,
+                        "y": 1383.5
+                      },
+                      {
+                        "x": 2032.5,
+                        "y": 1566
+                      },
+                      {
+                        "x": 1727,
+                        "y": 1613
+                      },
+                      {
+                        "x": 1256,
+                        "y": 1699.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -5967,10 +8112,19 @@
         "objectName": "Chao"
       },
       {
+        "objectName": "Tronco_curvo"
+      },
+      {
+        "objectName": "Tronco"
+      },
+      {
         "objectName": "RampaEsq"
       },
       {
         "objectName": "RampaDir"
+      },
+      {
+        "objectName": "Spr_ChaoCanto"
       },
       {
         "objectName": "Colisor"
@@ -6009,7 +8163,19 @@
         "objectName": "Parallax_03_Frente"
       },
       {
+        "objectName": "Parallax_01_Medio2"
+      },
+      {
+        "objectName": "Parallax_02_Fundo2"
+      },
+      {
+        "objectName": "Parallax_03_Frente2"
+      },
+      {
         "objectName": "FundoBG"
+      },
+      {
+        "objectName": "FundoBG2"
       },
       {
         "objectName": "ColisorReset"
@@ -6051,10 +8217,19 @@
         "objectName": "TutorialTexto"
       },
       {
-        "objectName": "Spr_ChaoCanto"
+        "objectName": "Fogo"
       },
       {
-        "objectName": "Fogo"
+        "objectName": "Tronco_toco"
+      },
+      {
+        "objectName": "Pedra01"
+      },
+      {
+        "objectName": "Pedra02"
+      },
+      {
+        "objectName": "Pedra03"
       }
     ]
   },
