@@ -1101,6 +1101,334 @@
         "name": "icone-gato.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Sumauma.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sumauma.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Sumauma2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sumauma2.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Angelim3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Angelim3.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Copaiba2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Copaiba2.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "chao_reto.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "chao_reto.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "chao_inclinado.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "chao_inclinado.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "chão_penhasco.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "chão_penhasco.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fogo1.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "fogo1.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fogo2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "fogo2.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fogo3.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "fogo3.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fogo4.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "fogo4.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fogo5.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "fogo5.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0030.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0038.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0036.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0034.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0032.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0031.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0033.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0033.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0035.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0037.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO correndo0039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO correndo0039.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0030.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0031.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0032.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0034.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0035.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0036.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0037.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0038.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "GATO DO MATO0039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GATO DO MATO0039.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1135.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1135.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1134.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1134.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1133.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1133.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1132.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1132.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1131.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1131.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1136.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1136.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1137.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1137.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1138.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1138.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1139.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1139.PNG",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "IMG_1110.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_1110.PNG",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -1163,6 +1491,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/parallax"
     }
   ],
   "externalLayouts": [],

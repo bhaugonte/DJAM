@@ -21,7 +21,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.06299974011487784,
+    "zoomFactor": 0.1155420328123731,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -165,6 +165,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 2,
+      "flippedX": true,
       "height": 540,
       "keepRatio": true,
       "layer": "",
@@ -182,14 +183,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
+      "flippedX": true,
       "height": 360,
       "keepRatio": true,
       "layer": "",
       "name": "Terrestre",
       "persistentUuid": "d2569be6-550e-4cc5-bdfe-67f40ef5ce90",
       "width": 640,
-      "x": 13600,
-      "y": -180,
+      "x": 13662,
+      "y": -149,
       "zOrder": -3,
       "numberProperties": [],
       "stringProperties": [],
@@ -216,6 +218,7 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
+      "flippedX": true,
       "height": 682,
       "keepRatio": true,
       "layer": "",
@@ -360,10 +363,11 @@
       "keepRatio": true,
       "layer": "",
       "name": "Camera",
+      "opacity": 0,
       "persistentUuid": "43d96844-1dc4-4578-be15-eee04bf183d2",
       "width": 0,
-      "x": 13536,
-      "y": -180,
+      "x": 12992,
+      "y": -136,
       "zOrder": -4,
       "numberProperties": [],
       "stringProperties": [],
@@ -478,6 +482,7 @@
       "height": 2520,
       "layer": "",
       "name": "Colisor",
+      "opacity": 0,
       "persistentUuid": "e21126ba-1b2f-4ade-8740-660609f632e8",
       "width": 640,
       "x": 9440,
@@ -554,7 +559,7 @@
       "layer": "",
       "name": "Chao",
       "persistentUuid": "d8e2ac82-9a30-48a6-a307-6084f2e9f7fa",
-      "width": 22240,
+      "width": 25603,
       "x": -16160,
       "y": -4140,
       "zOrder": 0,
@@ -607,7 +612,7 @@
       "persistentUuid": "eff44f7d-e63f-43b4-bf9c-7e6238c5262f",
       "width": 27520,
       "x": -12000,
-      "y": -3600,
+      "y": -3569,
       "zOrder": 30,
       "numberProperties": [],
       "stringProperties": [],
@@ -621,6 +626,7 @@
       "keepRatio": true,
       "layer": "",
       "name": "SpawnTerrestre",
+      "opacity": 0,
       "persistentUuid": "e6f697e6-ace7-4d75-8b49-cfbad2350afa",
       "width": 160,
       "x": 48800,
@@ -637,6 +643,7 @@
       "keepRatio": true,
       "layer": "",
       "name": "SpawnCamera",
+      "opacity": 0,
       "persistentUuid": "4b7e4cb8-9b81-498c-98a0-9ad5cfbfed79",
       "width": 0,
       "x": 49440,
@@ -654,6 +661,7 @@
       "keepRatio": true,
       "layer": "",
       "name": "ColisorReset",
+      "opacity": 0,
       "persistentUuid": "f844c772-4f79-4f10-9ad9-f7b8d52a81d4",
       "width": 160,
       "x": 12160,
@@ -799,14 +807,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 968,
+      "flippedX": true,
+      "height": 838,
       "keepRatio": true,
       "layer": "",
       "name": "Arvore_Obstaculo01",
       "persistentUuid": "d6c89103-0f9c-4bb7-8172-d822c99531fc",
-      "width": 944,
-      "x": -9424,
-      "y": -3240,
+      "width": 817,
+      "x": -9857,
+      "y": -3146,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -822,8 +831,8 @@
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "f04e447f-c42c-4a43-8fea-3b33e97301f0",
       "width": 1328,
-      "x": -11840,
-      "y": -3668,
+      "x": -11747,
+      "y": -3489,
       "zOrder": 38,
       "numberProperties": [],
       "stringProperties": [],
@@ -833,14 +842,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1048,
+      "height": 907,
       "keepRatio": true,
       "layer": "",
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "95429849-0ece-4ada-8056-9730e8e9a2e2",
-      "width": 1048,
-      "x": -8248,
-      "y": -3420,
+      "width": 907,
+      "x": -8915,
+      "y": -3297,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1253,8 +1262,8 @@
       "name": "Fogo",
       "persistentUuid": "126c8dd4-e1b5-4be0-928d-c02d4435cacf",
       "width": 1120,
-      "x": 20193,
-      "y": 12,
+      "x": 20213,
+      "y": -49,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1264,14 +1273,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 630,
+      "height": 618,
       "keepRatio": true,
       "layer": "",
       "name": "Fogo",
       "persistentUuid": "75eb286b-8e43-44fd-a415-4e4ba7838448",
-      "width": 1120,
-      "x": 21547,
-      "y": -54,
+      "width": 1099,
+      "x": 21634,
+      "y": -22,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1281,14 +1290,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 630,
+      "height": 535,
       "keepRatio": true,
       "layer": "",
       "name": "Fogo",
       "persistentUuid": "a4f65da8-fcb7-469e-ae2b-8a730ab8d910",
-      "width": 1120,
-      "x": 23040,
-      "y": 90,
+      "width": 951,
+      "x": 23050,
+      "y": 44,
       "zOrder": 46,
       "numberProperties": [],
       "stringProperties": [],
@@ -1470,14 +1479,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1344,
+      "flippedX": true,
+      "height": 1055,
       "keepRatio": true,
       "layer": "",
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "da4a3a03-53ee-4049-a4e8-d83ed57dcfab",
-      "width": 1310,
-      "x": -6464,
-      "y": -3623,
+      "width": 1028,
+      "x": -7128,
+      "y": -3348,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1487,14 +1497,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 968,
+      "height": 838,
       "keepRatio": true,
       "layer": "",
       "name": "Arvore_Obstaculo01",
       "persistentUuid": "0c237bb0-8a9e-4d88-a5a0-c6621f15a0da",
-      "width": 944,
-      "x": -4774,
-      "y": -3052,
+      "width": 817,
+      "x": -6025,
+      "y": -3176,
       "zOrder": 37,
       "numberProperties": [],
       "stringProperties": [],
@@ -1504,14 +1514,397 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1048,
+      "height": 907,
       "keepRatio": true,
       "layer": "",
       "name": "Arvore_Obstaculo2",
       "persistentUuid": "c9077cf1-32dd-4a57-b0a7-27f3b719ca7b",
-      "width": 1048,
-      "x": -3389,
-      "y": -3493,
+      "width": 907,
+      "x": -4927,
+      "y": -3254,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 881,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "1698c637-c619-4a32-a0e7-d83c820ffc69",
+      "width": 881,
+      "x": -3845,
+      "y": -3252,
+      "zOrder": 58,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 840,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "28c2b5df-d413-4098-aa8f-7456eb2f1594",
+      "width": 840,
+      "x": -7971,
+      "y": -3179,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 881,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "fa1446a8-0662-409d-af0e-ba663777eed7",
+      "width": 881,
+      "x": -1030,
+      "y": -3256,
+      "zOrder": 58,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 907,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "68fc44f5-d1b5-426b-bf65-423dc99ceb4d",
+      "width": 907,
+      "x": -2149,
+      "y": -3244,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 838,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo01",
+      "persistentUuid": "640b3673-7f58-4957-966e-c7b28a019c59",
+      "width": 817,
+      "x": -2971,
+      "y": -3182,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 907,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "48fce0c8-06fc-4d8c-886c-83e2eb3c1a21",
+      "width": 907,
+      "x": -117,
+      "y": -3218,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 840,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "4f35f6b2-e960-42f6-96c4-da93fa382371",
+      "width": 840,
+      "x": 827,
+      "y": -3100,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1055,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "5fe595d2-d46d-42d7-9a90-cc1b8b92c294",
+      "width": 1028,
+      "x": 1670,
+      "y": -3269,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 838,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo01",
+      "persistentUuid": "9611e3dc-c6bd-40aa-a471-cd84a76410de",
+      "width": 817,
+      "x": 2575,
+      "y": -3200,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 840,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "88a427bf-11d7-46ca-925e-5759699324d4",
+      "width": 840,
+      "x": 3384,
+      "y": -3197,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1055,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "1556a2fe-f271-46fc-a331-9763061ee2a8",
+      "width": 1028,
+      "x": 4227,
+      "y": -3366,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 838,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo01",
+      "persistentUuid": "31941cc9-e6da-47a0-825b-befebc6fbe7a",
+      "width": 817,
+      "x": 5079,
+      "y": -3182,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 907,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "77a97e06-76fc-43a3-914c-a1d789d0fb73",
+      "width": 907,
+      "x": 5924,
+      "y": -3211,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 840,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "57a33685-85dc-419f-a6dd-355cbd6d8b31",
+      "width": 840,
+      "x": 6856,
+      "y": -3230,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1055,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "94c02df8-a623-4b70-8e32-9c0d289e8db2",
+      "width": 1028,
+      "x": 7777,
+      "y": -3329,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 838,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo01",
+      "persistentUuid": "ea4765e1-1c37-4050-8f62-807da5dae948",
+      "width": 817,
+      "x": 8729,
+      "y": -3217,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 838,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo01",
+      "persistentUuid": "d7a47dc2-5e1e-4d81-8652-d29f4fbf8ee3",
+      "width": 817,
+      "x": 13186,
+      "y": -3081,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1055,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "d929f48d-4ad5-4174-a5d9-1664d1e11ca5",
+      "width": 1028,
+      "x": 12331,
+      "y": -3326,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 840,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo3",
+      "persistentUuid": "21f63720-507d-412f-874f-49afff22d9c1",
+      "width": 840,
+      "x": 11579,
+      "y": -3147,
+      "zOrder": 59,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 907,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "70cfbc62-b008-4dd1-829c-bd179f56ac79",
+      "width": 907,
+      "x": 10750,
+      "y": -3228,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 838,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo01",
+      "persistentUuid": "f9faba09-555c-490a-b965-dd4b5458f4ec",
+      "width": 817,
+      "x": 10139,
+      "y": -3132,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 1055,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Arvore_Obstaculo2",
+      "persistentUuid": "6e2dc900-0f0e-4d7c-96b7-f2ddd1733ebe",
+      "width": 1028,
+      "x": 9322,
+      "y": -3260,
       "zOrder": 39,
       "numberProperties": [],
       "stringProperties": [],
@@ -1570,7 +1963,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/GATO DO MATO correndo0030.png",
+                  "image": "GATO DO MATO correndo0031.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1578,35 +1971,16 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": false,
+                    "automatic": true,
                     "name": "centre",
-                    "x": 934,
-                    "y": 852.5
+                    "x": 0,
+                    "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 530,
-                        "y": 101
-                      },
-                      {
-                        "x": 1612,
-                        "y": 105
-                      },
-                      {
-                        "x": 1612,
-                        "y": 850
-                      },
-                      {
-                        "x": 530,
-                        "y": 843
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/GATO DO MATO correndo0032.png",
+                  "image": "GATO DO MATO correndo0033.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1614,35 +1988,16 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": false,
+                    "automatic": true,
                     "name": "centre",
-                    "x": 934,
-                    "y": 852.5
+                    "x": 0,
+                    "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 530,
-                        "y": 101
-                      },
-                      {
-                        "x": 1612,
-                        "y": 105
-                      },
-                      {
-                        "x": 1612,
-                        "y": 850
-                      },
-                      {
-                        "x": 530,
-                        "y": 843
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/GATO DO MATO correndo0034.png",
+                  "image": "GATO DO MATO correndo0035.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1650,35 +2005,16 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": false,
+                    "automatic": true,
                     "name": "centre",
-                    "x": 934,
-                    "y": 852.5
+                    "x": 0,
+                    "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 530,
-                        "y": 101
-                      },
-                      {
-                        "x": 1612,
-                        "y": 105
-                      },
-                      {
-                        "x": 1612,
-                        "y": 850
-                      },
-                      {
-                        "x": 530,
-                        "y": 843
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/GATO DO MATO correndo0036.png",
+                  "image": "GATO DO MATO correndo0037.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1686,35 +2022,16 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": false,
+                    "automatic": true,
                     "name": "centre",
-                    "x": 934,
-                    "y": 852.5
+                    "x": 0,
+                    "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 530,
-                        "y": 101
-                      },
-                      {
-                        "x": 1612,
-                        "y": 105
-                      },
-                      {
-                        "x": 1612,
-                        "y": 850
-                      },
-                      {
-                        "x": 530,
-                        "y": 843
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/GATO DO MATO correndo0038.png",
+                  "image": "GATO DO MATO correndo0039.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1722,31 +2039,12 @@
                     "y": 0
                   },
                   "centerPoint": {
-                    "automatic": false,
+                    "automatic": true,
                     "name": "centre",
-                    "x": 934,
-                    "y": 852.5
+                    "x": 0,
+                    "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 530,
-                        "y": 101
-                      },
-                      {
-                        "x": 1612,
-                        "y": 105
-                      },
-                      {
-                        "x": 1612,
-                        "y": 850
-                      },
-                      {
-                        "x": 530,
-                        "y": 843
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 }
               ]
             }
@@ -1811,7 +2109,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0030.png",
+                  "image": "GATO DO MATO0030.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1847,7 +2145,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0031.png",
+                  "image": "GATO DO MATO0031.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1883,7 +2181,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0032.png",
+                  "image": "GATO DO MATO0032.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1919,7 +2217,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0033.png",
+                  "image": "GATO DO MATO0034.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1955,7 +2253,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0034.png",
+                  "image": "GATO DO MATO0035.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1991,7 +2289,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0035.png",
+                  "image": "GATO DO MATO0036.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2027,7 +2325,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0036.png",
+                  "image": "GATO DO MATO0037.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2063,7 +2361,43 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261113T233850Z-1-001/GATO DO MATO0037.png",
+                  "image": "GATO DO MATO0038.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 934,
+                    "y": 852.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 530,
+                        "y": 101
+                      },
+                      {
+                        "x": 1612,
+                        "y": 105
+                      },
+                      {
+                        "x": 1612,
+                        "y": 850
+                      },
+                      {
+                        "x": 530,
+                        "y": 843
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "GATO DO MATO0039.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2181,7 +2515,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/chao_reto.PNG",
+                  "image": "chao_reto.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2324,7 +2658,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/chao_inclinadod.PNG",
+                  "image": "chao_inclinado.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2575,13 +2909,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia2",
+                  "image": "IMG_1131.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -2675,7 +3009,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia3",
+                  "image": "IMG_1132.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -2769,7 +3103,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia",
+                  "image": "IMG_1133.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -2863,7 +3197,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia4",
+                  "image": "IMG_1134.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -2957,7 +3291,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia5",
+                  "image": "IMG_1110.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -3051,7 +3385,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia6",
+                  "image": "IMG_1134.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -3145,7 +3479,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia7",
+                  "image": "IMG_1137.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -3239,7 +3573,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia8",
+                  "image": "IMG_1138.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -3333,7 +3667,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Harpia9",
+                  "image": "IMG_1139.PNG",
                   "points": [
                     {
                       "name": "Saiun",
@@ -3769,7 +4103,14 @@
           "booleanParameters": {}
         }
       ],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax",
+          "ParallaxFactor": 0.1,
+          "FollowedLayer": ""
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -3794,7 +4135,14 @@
           "booleanParameters": {}
         }
       ],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax",
+          "ParallaxFactor": 0.3,
+          "FollowedLayer": ""
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -3820,7 +4168,14 @@
           "booleanParameters": {}
         }
       ],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax",
+          "ParallaxFactor": 0.5,
+          "FollowedLayer": ""
+        }
+      ]
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -4197,6 +4552,7 @@
         },
         {
           "name": "Reset",
+          "persistentUuid": "d43a9406-537e-42a0-96ca-f47973455d15",
           "type": "boolean",
           "value": false
         }
@@ -4302,7 +4658,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Angelim.PNG",
+                  "image": "Angelim3.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4491,7 +4847,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Copaiba.PNG",
+                  "image": "Sumauma.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4755,7 +5111,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Angelim2.PNG",
+                  "image": "Copaiba2.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4771,20 +5127,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 114,
-                        "y": 127
+                        "x": 14,
+                        "y": 283
                       },
                       {
-                        "x": 1980,
-                        "y": 127
+                        "x": 2006,
+                        "y": 283
                       },
                       {
-                        "x": 1980,
-                        "y": 2017
+                        "x": 2006,
+                        "y": 1854
                       },
                       {
-                        "x": 114,
-                        "y": 2017
+                        "x": 14,
+                        "y": 1854
                       }
                     ]
                   ]
@@ -4877,6 +5233,42 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
+                  "image": "chão_penhasco.PNG",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 662
+                      },
+                      {
+                        "x": 1660,
+                        "y": 664
+                      },
+                      {
+                        "x": 1660,
+                        "y": 2048
+                      },
+                      {
+                        "x": 0,
+                        "y": 2048
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
                   "image": "../DJAM Arquivos/gatomato/idle/chão_penhasco.PNG",
                   "points": [],
                   "originPoint": {
@@ -4938,7 +5330,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261114T123442Z-1-001/IMG_1126.PNG",
+                  "image": "fogo1.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4974,7 +5366,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261114T123442Z-1-001/IMG_1127.PNG",
+                  "image": "fogo2.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5010,7 +5402,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261114T123442Z-1-001/IMG_1128.PNG",
+                  "image": "fogo3.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5046,7 +5438,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261114T123442Z-1-001/IMG_1129.PNG",
+                  "image": "fogo4.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5082,7 +5474,7 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "../DJAM Arquivos/gatomato/idle/drive-download-20261114T123442Z-1-001/IMG_1130.PNG",
+                  "image": "fogo5.PNG",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5599,19 +5991,25 @@
         "objectName": "Teste"
       },
       {
-        "objectName": "Parallax_02_Fundo"
-      },
-      {
         "objectName": "Arvore_Obstaculo01"
       },
       {
         "objectName": "Arvore_Obstaculo2"
       },
       {
+        "objectName": "Arvore_Obstaculo3"
+      },
+      {
+        "objectName": "Parallax_02_Fundo"
+      },
+      {
         "objectName": "Parallax_01_Medio"
       },
       {
         "objectName": "Parallax_03_Frente"
+      },
+      {
+        "objectName": "FundoBG"
       },
       {
         "objectName": "ColisorReset"
@@ -5623,13 +6021,7 @@
         "objectName": "Macaco"
       },
       {
-        "objectName": "FundoBG"
-      },
-      {
         "objectName": "Saiun"
-      },
-      {
-        "objectName": "Arvore_Obstaculo3"
       },
       {
         "objectName": "TutorialPainel"
@@ -5644,15 +6036,6 @@
         "objectName": "iconeHarpia"
       },
       {
-        "objectName": "TutorialTexto"
-      },
-      {
-        "objectName": "Spr_ChaoCanto"
-      },
-      {
-        "objectName": "Fogo"
-      },
-      {
         "objectName": "FaixaDivisor"
       },
       {
@@ -5663,6 +6046,15 @@
       },
       {
         "objectName": "iconeGato"
+      },
+      {
+        "objectName": "TutorialTexto"
+      },
+      {
+        "objectName": "Spr_ChaoCanto"
+      },
+      {
+        "objectName": "Fogo"
       }
     ]
   },
@@ -8614,6 +9006,10 @@
     {
       "name": "Flippable",
       "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "HorizontalTiledSpriteParallax",
+      "type": "Parallax::HorizontalTiledSpriteParallax"
     },
     {
       "name": "Opacity",
